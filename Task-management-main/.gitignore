@@ -43,6 +43,7 @@ node_modules
 venv/
 *.png
 *.jpg
+*.mp4
 dist
 dist-ssr
 coverage
