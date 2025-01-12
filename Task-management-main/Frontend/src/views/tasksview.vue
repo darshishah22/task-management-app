@@ -14,11 +14,3 @@ export default {
   },
 }
 </script>
-
-<style scoped>
-/* Scoped style for the component */
-.container {
-  padding: 20px;
-  background: linear-gradient(to right, #8522e9, #7571ed);
-}
-</style>
