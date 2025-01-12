@@ -46,7 +46,7 @@
                   <label for="task-priority">Priority</label>
                   <select
                     id="task-priority"
-                    class="form-control"
+                    class="form-select"
                     v-model="TaskPriority"
                     required
                   >
@@ -60,7 +60,7 @@
                   <label for="task-status">Status</label>
                   <select
                     id="task-status"
-                    class="form-control"
+                    class="form-select"
                     v-model="TaskStatus"
                   >
                     <option value="To Do">To Do</option>
